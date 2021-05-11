@@ -12,6 +12,12 @@ export default {
       description: "Titles should be catchy, descriptive, and not too long",
     },
     {
+      name: "subtitle",
+      type: "string",
+      title: "One liner copy",
+      description: "This is one liner copy for the title",
+    },
+    {
       name: "slug",
       type: "slug",
       title: "Slug",
